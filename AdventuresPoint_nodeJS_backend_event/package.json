@@ -1,0 +1,22 @@
+{
+  "name": "project8",
+  "version": "1.0.0",
+  "description": "npm init -y",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon appE.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.2",
+    "install": "^0.13.0",
+    "mongoose": "^6.1.7",
+    "mysql": "^2.18.1"
+  }
+}
